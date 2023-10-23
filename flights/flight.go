@@ -16,7 +16,7 @@ import (
 	_ "time/tzdata"
 
 	"github.com/hashicorp/go-retryablehttp"
-	"github.com/krisukox/google-flights-api/iata"
+	"github.com/jvehent/google-flights-api/iata"
 	"golang.org/x/text/language"
 )
 
