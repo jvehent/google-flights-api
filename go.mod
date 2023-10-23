@@ -1,6 +1,6 @@
-module github.com/krisukox/google-flights-api
+module github.com/jvehent/google-flights-api
 
-go 1.20
+go 1.21
 
 require golang.org/x/text v0.11.0
 
